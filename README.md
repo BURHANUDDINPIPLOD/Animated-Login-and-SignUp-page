@@ -1,16 +1,25 @@
-# myapp
+# Animated Login & Sign-Up Page in Flutter
 
-A new Flutter project.
+An elegantly designed and animated login and sign-up page built using Flutter. This project demonstrates how to create a single-page app with seamless animations and an intuitive UI for user authentication.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 🎨 Beautiful UI: A modern, sleek, and user-friendly design.
+- 🎬 Smooth Animations: Transition effects for a seamless user experience.
+- 📄 Single File Implementation: All the code resides in one file: `login_page.dart`.
 
-A few resources to get you started if this is your first Flutter project:
+## Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Login Page - 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screen Shot 2025-02-15 at 4 55 16 PM](https://github.com/user-attachments/assets/6ba96540-1430-40d0-a262-8cd9d6a50787)
+
+
+Sign Up Page - 
+
+![Screen Shot 2025-02-15 at 4 55 33 PM](https://github.com/user-attachments/assets/09fb63aa-b58d-467b-b628-40178e21b10a)
+
+
+Forgot password page which leads to success of mail sending - 
+
+![Screen Shot 2025-02-15 at 4 56 03 PM](https://github.com/user-attachments/assets/e127072a-cb75-40da-8a85-40d5c184561b)
